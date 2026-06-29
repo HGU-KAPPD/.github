@@ -48,22 +48,6 @@
 
 ---
 
-## 🛠 기술 스택
-
-<div align="center">
-
-| 분야 | 기술 |
-|------|------|
-| **Frontend** | React, JavaScript |
-| **Backend** | Spring Boot |
-| **Design** | Figma |
-
-</div>
-
-<br>
-
----
-
 ## 👥 팀원
 
 <div align="center">
