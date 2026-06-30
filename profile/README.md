@@ -87,38 +87,6 @@
 
 ---
 
-## 프로젝트 구조
-
-```
-📦 HFU-KAPPD
- ┣ 📂 frontend       # React + JavaScript
- ┣ 📂 backend        # Spring Boot
- ┗ 📄 README.md
-```
-
-<br>
-
----
-
-## 시작하기
-
-### Frontend
-```bash
-cd frontend
-npm install
-npm start
-```
-
-### Backend
-```bash
-cd backend
-./gradlew bootRun
-```
-
-<br>
-
----
-
 <div align="center">
 
 **Handong Global University × KAPPD**
